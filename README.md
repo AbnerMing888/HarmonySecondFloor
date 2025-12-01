@@ -5,7 +5,7 @@
 <span style="font-size:12px;color:red;">扫码关注，千帆起航，共筑鸿蒙！</span>
 </p>
 
-floor是一个便捷的下滑进入二楼组件，除此之外，还支持下滑进入半楼功能，支持自定义刷新头功能。
+second_floor是一个便捷的下滑进入二楼组件，通过简单属性配置即可实现，除此之外，还支持下滑进入半楼功能，支持自定义刷新头功能。
 
 ## 支持Api版本
 
@@ -24,13 +24,13 @@ Api适用版本：**>=12**
 **建议：在使用的模块路径下进行执行命令。**
 
 ```
-ohpm install @abner/floor
+ohpm install @abner/second_floor
 ```
 
 方式二：在工程的oh-package.json5中设置三方包依赖，配置示例如下：
 
 ```
-"dependencies": { "@abner/floor": "^1.0.0"}
+"dependencies": { "@abner/second_floor": "^1.0.0"}
 ```
 
 ## 代码使用

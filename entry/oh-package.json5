@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@abner/floor": "file:./libs/floor-signed.har"
+    "@abner/second_floor": "file:./libs/floor-signed-1.0.0.har"
   }
 }
 
